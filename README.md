@@ -1,43 +1,60 @@
-### 👨‍💻 Ziad Gamal - Backend Developer
+# Hi there, I'm Ziad Gamal 👋
 
-Hey there! I'm Ziad Gamal, a passionate backend developer specializing in PHP Laravel and MySQL. I thrive on solving complex problems through coding and enjoy every moment spent crafting efficient solutions. Recently graduated with a Bachelor's degree in Computer Science from Fayoum University, I bring over 2 years of hands-on experience with Laravel and 3 years with PHP and SQL.
+🔧 **Backend Developer** | PHP & Laravel  
+🎓 **FCAI Graduate** | Computers & AI  
+💡 **Problem Solver** | Coding Enthusiast
 
-#### 🚀 Skills:
+## About Me
+
+- 👨‍💻 2 years of Laravel, 3 years of PHP & SQL
+- 📚 Continuous learner & tech enthusiast
+- 🌍 Aspiring to work at a multinational company
+
+## Projects
+
+### Hospital Management System (HMS) 🏥
+- Patient & Doctor Management
+- Appointment Booking & Billing
+- Inventory & Referral Management
+- Reports & Analytics
+
+### Shakhsni Health App 📱
+- Easy Booking & Medicine Delivery
+- Nearest Hospital Finder & Doctor Chat
+- AI Chatbot for Disease Detection
+
+### Dr.Car App 🚗
+- Special services, fast recovery, maintenance reminders, and more
+
+## Experience
+
+- 🏢 **DropIdea, UAE (Remote)** | Intern & Back-End Developer
+- 🇪🇬 **Dinamo Egypt (Remote)** | Back-End Developer
+
+## Certifications 🏅
+
+- Google IT Support Professional
+- CS50: Introduction to Computer Science
+- Fortinet Network Security Associate (NSE 1)
+- Supervised Machine Learning
+
+## Skills
+
 - **Languages:** PHP, C++, C, Python, JavaScript, TypeScript
-- **Frameworks/Libraries:** Laravel, Livewire, jQuery
-- **Database:** MySQL
-- **Other Technologies:** API Development, Git, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+- **Frameworks:** Laravel, Livewire
+- **Databases:** MySQL
+- **Others:** API, Git, jQuery, SPA, WAD, OOP, DSA, DBMS, Troubleshooting
 
-#### 💼 Experience:
-- **Backend Developer**, Dinamo Egypt (Remote)
-  - Developed backend systems for projects like Erashad web and app, integrating AI for psychological health consultations.
-  - Contributed to code reviews and troubleshooting efforts using PHP Laravel and MySQL.
+## Contact Me
 
-- **Back-End Developer**, DROPIDEA (Remote)
-  - Enhanced user experience in the Dr.Car application by implementing robust APIs and features like special services and maintenance reminders.
-  - Promoted from intern to key team member, showcasing dedication in a remote environment.
+- [LinkedIn](https://www.linkedin.com/in/ziad-gamal/) 💼
+- [GitHub](https://github.com/ZiadGamalDev) 💻
+- [Email](mailto:zyadgamal450@gmail.com) 📧
 
-#### 🛠️ Projects:
-- **Hospital Management System (HMS)**
-  - Designed and developed a user-friendly website for hospital management, facilitating appointment scheduling, patient record management, and staff administration.
+## Hobbies
 
-- **Dr.Car Application**
-  - Created a comprehensive automotive management system offering features such as special services, maintenance reminders, and service booking.
+- 💻 Coding, 🧩 Problem-solving, 📺 Watching movies/TV shows 😂
 
-#### 🎓 Education:
-- **Bachelor of Computer Science**, Fayoum University
-  - Graduated with a major in Computer Science, focusing on programming, algorithms, and artificial intelligence.
+---
 
-#### 📜 Certifications:
-- Technical Support Fundamentals
-- The Bits and Bytes of Computer Networking
-- Operating Systems and You Becoming a Power User
-- Supervised Machine Learning: Regression and Classification
-
-#### 🌟 Career Goals:
-My ambition is to contribute my skills and expertise as a senior backend engineer in a multinational company, where I can continue to grow professionally and solve impactful challenges.
-
-#### 🌍 Interests:
-Outside of coding, I enjoy problem-solving and occasionally unwind with movies and TV shows.
-
-Let's connect! [LinkedIn](https://www.linkedin.com/in/ziad-gamal/) | Phone: +201026264486 | [GitHub](https://github.com/ZiadGamalDev)
+Looking forward to collaborating and contributing to impactful projects!
