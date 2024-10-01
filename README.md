@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 👨‍💻 2 years of Laravel, 3 years of PHP & SQL
+- 👨‍💻 1 year of Laravel, 2 years of PHP & SQL
 - 📚 Continuous learner & tech enthusiast
 - 🌍 Aspiring to work at a multinational company
 
