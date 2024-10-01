@@ -57,5 +57,6 @@
 
 ---
 
-[Download My Resume](./Ziad_Gamal_Backend_Developer.pdf)
+[Download My Resume](./Ziad_Gamal_Backend_Developer_CV.pdf)
+
 Looking forward to collaborating and contributing to impactful projects!
