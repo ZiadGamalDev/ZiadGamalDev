@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ziad Gamal 👋</h1>
 
 <p align="center">
-  <b>Backend Developer | Laravel & Node.js</b>  
+  <b>MERN Stack & Laravel Backend Developer</b>  
   <br>
   <i>A tech enthusiast who builds real-world apps and loves clean code.</i>
 </p>
@@ -46,6 +46,19 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🎧 [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system)  
+  Real-time chat ticketing system with 7 full apps – Node.js, Socket.IO, React, Angular, and MongoDB
+
+- 🛒 [OK-PIN Showcase](https://github.com/ZiadGamalDev/ok-pin-showcase)  
+  Laravel-powered marketplace for digital products, KYC-secured with wallet system
+
+- 🤖 [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone-frontend)  
+  AI chatbot built with NestJS and Next.js – smooth fullstack project
+
+---
+
 ## 🚀 Projects You Should Check
 
 | Project | Description |
@@ -85,4 +98,4 @@
 Build awesome backend systems that solve real-world problems — from MVPs to full-scale production apps.  
 I'm always learning, always building, always leveling up 🔥
 
-Let’s connect and build something powerful 💼💻
+Let's connect and build something powerful 💼💻
