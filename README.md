@@ -25,9 +25,12 @@
 |--------|-------|
 | Backend | Laravel, PHP, Node.js, Express |
 | Frontend | React, Angular (Basics) |
-| DBs | MySQL, MongoDB |
+| Frontend Libraries | TypeScript, Redux, Vue.js, Tailwind CSS, Material UI |
+| DBs | MySQL, MongoDB, SQLite, Oracle |
 | Real-Time | Socket.IO, Laravel Reverb, Pusher |
 | Auth | JWT, Sanctum, Passport |
+| Testing | PHPUnit, Jest |
+| Payment | Stripe, PayPal |
 | Tools | Git, Redis, Postman, VS Code, GitHub Actions |
 | Other | REST APIs, Clean Code, MVC, OOP, DSA, SOLID Principles |
 
@@ -48,27 +51,27 @@
 
 ## 🚀 Featured Projects
 
+- 🚖 [Taxi Arab Showcase](https://github.com/ZiadGamalDev/taxi-arab-showcase)  
+  Real ride-hailing app like Uber — Laravel backend with Redis queues, Pusher sockets, and live driver assignment logic
+
 - 🎧 [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system)  
   Real-time chat ticketing system with 7 full apps – Node.js, Socket.IO, React, Angular, and MongoDB
 
 - 🛒 [OK-PIN Showcase](https://github.com/ZiadGamalDev/ok-pin-showcase)  
   Laravel-powered marketplace for digital products, KYC-secured with wallet system
 
-- 🤖 [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone-frontend)  
-  AI chatbot built with NestJS and Next.js – smooth fullstack project
+- 🤖 [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone)  
+  AI chatbot built with NestJS and Next.js – smooth fullstack project with OpenAI integration
 
 ---
 
-## 🚀 Projects You Should Check
+## 📂 More Projects
 
 | Project | Description |
 |--------|-------------|
-| [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system) | Real-time multi-agent support system with chat assignment, agent load tracking, and admin dashboard — built with Node.js, React, Angular, and Socket.IO |
 | [Bazario E-commerce](https://github.com/ZiadGamalDev/bazario-ecommerce-frontend) | Eyeglasses e-commerce app built with Laravel backend and vanilla JS frontend |
-| [HMS](https://github.com/ZiadGamalDev/hospital-management-system-laravel) | Hospital system with patient/doctor management, appointment booking, and billing |
+| [Hospital Management System](https://github.com/ZiadGamalDev/hospital-management-system-laravel) | Hospital system with patient/doctor management, appointment booking, and billing |
 | [Shakhsni](https://github.com/ZiadGamalDev/shakhsni-api) | Smart healthcare API with chatbot, booking system, and location-based hospital search |
-| [OK-PIN Showcase](https://github.com/ZiadGamalDev/ok-pin-showcase) | Backend logic for secure digital marketplace — vouchers, topups, KYC, reports |
-| [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone) | AI Chatbot clone using Next.js, NestJS, and OpenAI API |
 
 > 💬 Check out all projects in my [GitHub Repos »](https://github.com/ZiadGamalDev?tab=repositories)
 
@@ -90,6 +93,17 @@
 - CS50x by Harvard (Computer Science)  
 - Fortinet Network Security (NSE 1)  
 - Supervised Machine Learning by DeepLearning.AI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadGamalDev&show_icons=true&theme=radical" alt="Ziad's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadGamalDev&theme=radical" alt="Ziad's GitHub streak" />
+</p>
 
 ---
 
