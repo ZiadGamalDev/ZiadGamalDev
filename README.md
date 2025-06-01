@@ -1,62 +1,88 @@
-# Hi there, I'm Ziad Gamal 👋
+<h1 align="center">Hi, I'm Ziad Gamal 👋</h1>
 
-🔧 **Backend Developer** | PHP & Laravel  
-🎓 **FCAI Graduate** | Computers & AI  
-💡 **Problem Solver** | Coding Enthusiast
-
-## About Me
-
-- 👨‍💻 1 year of Laravel, 2 years of PHP & SQL
-- 📚 Continuous learner & tech enthusiast
-- 🌍 Aspiring to work at a multinational company
-
-## Projects
-
-### Hospital Management System (HMS) 🏥
-- Patient & Doctor Management
-- Appointment Booking & Billing
-- Inventory & Referral Management
-- Reports & Analytics
-
-### Shakhsni Health App 📱
-- Easy Booking & Medicine Delivery
-- Nearest Hospital Finder & Doctor Chat
-- AI Chatbot for Disease Detection
-
-### Dr.Car App 🚗
-- Special services, fast recovery, maintenance reminders, and more
-
-## Experience
-
-- 🏢 **DropIdea, UAE (Remote)** | Intern & Back-End Developer
-- 🇪🇬 **Dinamo Egypt (Remote)** | Back-End Developer
-
-## Certifications 🏅
-
-- Google IT Support Professional
-- CS50: Introduction to Computer Science
-- Fortinet Network Security Associate (NSE 1)
-- Supervised Machine Learning
-
-## Skills
-
-- **Languages:** PHP, C++, C, Python, JavaScript, TypeScript
-- **Frameworks:** Laravel, Livewire
-- **Databases:** MySQL
-- **Others:** API, Git, jQuery, SPA, WAD, OOP, DSA, DBMS, Troubleshooting
-
-## Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/ziad-gamal/) 💼
-- [GitHub](https://github.com/ZiadGamalDev) 💻
-- [Email](mailto:zyadgamal450@gmail.com) 📧
-
-## Hobbies
-
-- 💻 Coding, 🧩 Problem-solving, 📺 Watching movies/TV shows 😂
+<p align="center">
+  <b>Backend Developer | Laravel & Node.js</b>  
+  <br>
+  <i>A tech enthusiast who builds real-world apps and loves clean code.</i>
+</p>
 
 ---
 
-[Download My Resume](./Ziad_Gamal_Backend_Developer_CV.pdf)
+## 👨‍💻 About Me
 
-Looking forward to collaborating and contributing to impactful projects!
+- 💼 1.5+ years of experience in backend development  
+- 🛠️ Strong in Laravel, Node.js (Express), REST APIs, and MySQL  
+- 🚀 Built and deployed 25+ full-stack projects — real-time apps, e-commerce, dashboards  
+- 🎯 Goal: Join a global product-based company and grow as a senior backend engineer  
+- 💡 Passionate about clean architecture, backend scalability, and devops basics  
+- 🕌 Egyptian 🇪🇬, Muslim, and deeply values integrity and growth  
+
+---
+
+## 🧠 Tech Stack
+
+| Domain | Tools |
+|--------|-------|
+| Backend | Laravel, PHP, Node.js, Express |
+| Frontend | React, Angular (Basics) |
+| DBs | MySQL, MongoDB |
+| Real-Time | Socket.IO, Laravel Reverb, Pusher |
+| Auth | JWT, Sanctum, Passport |
+| Tools | Git, Redis, Postman, VS Code, GitHub Actions |
+| Other | REST APIs, Clean Code, MVC, OOP, DSA, SOLID Principles |
+
+---
+
+## 💼 Work Experience
+
+### 🚗 Dinamo Egypt (Current) — Laravel Backend Developer  
+- Working on **Taxi Arab**, a real-time ride-hailing app like Uber  
+- Implemented chat cycle logic, agent invite queueing, and scalable ride dispatch system  
+- Handling production database safely with deployment strategies
+
+### 🛠 DropIdea (UAE) — Laravel Developer (Intern → Remote PT)  
+- Built core features for **Dr.Car**, a car service booking app  
+- Delivered APIs for appointment, tracking, and service scheduling
+
+---
+
+## 🚀 Projects You Should Check
+
+| Project | Description |
+|--------|-------------|
+| [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system) | Real-time multi-agent support system with chat assignment, agent load tracking, and admin dashboard — built with Node.js, React, Angular, and Socket.IO |
+| [Bazario E-commerce](https://github.com/ZiadGamalDev/bazario-ecommerce-frontend) | Eyeglasses e-commerce app built with Laravel backend and vanilla JS frontend |
+| [HMS](https://github.com/ZiadGamalDev/hospital-management-system-laravel) | Hospital system with patient/doctor management, appointment booking, and billing |
+| [Shakhsni](https://github.com/ZiadGamalDev/shakhsni-api) | Smart healthcare API with chatbot, booking system, and location-based hospital search |
+| [OK-PIN Showcase](https://github.com/ZiadGamalDev/ok-pin-showcase) | Backend logic for secure digital marketplace — vouchers, topups, KYC, reports |
+| [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone) | AI Chatbot clone using Next.js, NestJS, and OpenAI API |
+
+> 💬 Check out all projects in my [GitHub Repos »](https://github.com/ZiadGamalDev?tab=repositories)
+
+---
+
+## 📄 Resume & Contact
+
+📩 Email: [zyadgamal450@gmail.com](mailto:zyadgamal450@gmail.com)  
+🔗 LinkedIn: [@ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)  
+📂 Resume:  
+- [Download Ziad_Gamal_CV.pdf](./Ziad_Gamal_CV.pdf)  
+- [Download Backend_Developer_CV.pdf](./Ziad_Gamal_Backend_Developer_CV.pdf)
+
+---
+
+## 🧩 Certifications
+
+- Google IT Support Professional  
+- CS50x by Harvard (Computer Science)  
+- Fortinet Network Security (NSE 1)  
+- Supervised Machine Learning by DeepLearning.AI  
+
+---
+
+## 🏁 Mission
+
+Build awesome backend systems that solve real-world problems — from MVPs to full-scale production apps.  
+I'm always learning, always building, always leveling up 🔥
+
+Let’s connect and build something powerful 💼💻
