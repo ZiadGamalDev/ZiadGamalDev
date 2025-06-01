@@ -79,6 +79,7 @@
 
 ## 📄 Resume & Contact
 
+🌐 Portfolio: [ziadgamaldev.vercel.app](https://ziadgamaldev.vercel.app/)  
 📩 Email: [zyadgamal450@gmail.com](mailto:zyadgamal450@gmail.com)  
 🔗 LinkedIn: [@ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)  
 📂 Resume:  
