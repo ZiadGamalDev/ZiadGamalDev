@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 1.5+ years of experience in Full-Stack development (Laravel & MERN)
+- 💼 +2 years of experience in Full-Stack development (Laravel & MERN)
 - 🚀 Built and deployed 25+ projects — real-time apps, e-commerce, dashboards
 - 🎯 Goal: Join a global product-based company and grow as a senior engineer
 - 🌍 Based in Cairo, Egypt — open to remote opportunities worldwide  
