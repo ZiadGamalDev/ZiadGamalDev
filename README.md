@@ -97,15 +97,9 @@
 
 ---
 
-## 📊 Technologies
-
-
-
----
-
 ## 🏁 Mission
 
-Architect and build scalable backend systems that power real-world applications and serve thousands of users. From ride-hailing platforms to healthcare systems, I focus on creating robust, performant APIs that businesses can rely on.
+Architect and build scalable full-stack applications that power real-world applications and serve thousands of users. From ride-hailing platforms to healthcare systems, I focus on creating robust, performant solutions that businesses can rely on.
 
 **My commitment:** Clean code, optimal performance, and solutions that scale from MVP to enterprise.
 
