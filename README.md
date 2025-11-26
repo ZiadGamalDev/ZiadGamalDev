@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ziad Gamal 👋</h1>
 
 <p align="center">
-  <b>MERN Stack & Laravel Backend Developer</b>  
+  <b>Full-Stack Developer (Laravel & MERN)</b>  
   <br>
   <i>A tech enthusiast who builds real-world apps and loves clean code.</i>
 </p>
@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 💼 1.5+ years of experience in backend development  
-- 🛠️ Strong in Laravel, Node.js (Express), REST APIs, and MySQL  
-- 🚀 Built and deployed 25+ full-stack projects — real-time apps, e-commerce, dashboards  
-- 🎯 Goal: Join a global product-based company and grow as a senior backend engineer  
-- 💡 Passionate about clean architecture, backend scalability, and DevOps practices
+- 💼 1.5+ years of experience in Full-Stack development (Laravel & MERN)
+- 🚀 Built and deployed 25+ projects — real-time apps, e-commerce, dashboards
+- 🎯 Goal: Join a global product-based company and grow as a senior engineer
 - 🌍 Based in Cairo, Egypt — open to remote opportunities worldwide  
 
 ---
@@ -32,32 +30,18 @@
 
 ## 🧠 Tech Stack
 
-| Domain | Tools |
-|--------|-------|
-| Backend | Laravel, PHP, Node.js, Express.js |
-| Frontend | React, Angular, TypeScript, Redux, Vue.js |
-| Styling | Tailwind CSS, Material UI, Bootstrap |
-| DBs | MySQL, MongoDB, SQLite, Oracle, Redis |
-| Real-Time | Socket.IO, Laravel Reverb, Pusher, WebSockets |
-| Auth | JWT, Laravel Sanctum, Laravel Passport |
-| Testing | PHPUnit, Jest |
-| Payment | Stripe, PayPal, MyFatoorah |
-| Tools | Git, Postman, VS Code, GitHub Actions, Docker |
-| Cloud | AWS Basics, VPS Deployment |
-| Other | REST APIs, Clean Code, MVC, OOP, DSA, SOLID Principles |
+- **Backend:** Laravel, PHP, Node.js, Express.js
+- **Frontend:** React, Angular, TypeScript, Redux, Vue.js
+- **Database:** MySQL, MongoDB, SQLite, PostgreSQL, Redis
+- **Real-Time:** Socket.IO, Laravel Reverb, Pusher
+- **Tools:** Docker, Git, GitHub Actions, AWS Basics
 
 ---
 
 ## 💼 Work Experience
 
-### 🚗 Dinamo Egypt (Current) — Laravel Backend Developer (Part-time)  
-- Working on **Taxi Arab**, a real-time ride-hailing app like Uber  
-- Implemented chat cycle logic, agent invite queueing, and scalable ride dispatch system  
-- Enhanced platform serving 10k+ users with 70% performance improvement in driver assignment
-
-### 🛠 DropIdea (UAE) — Laravel Developer (Intern → Remote PT)  
-- Built core features for **Dr.Car**, a car service booking app  
-- Delivered APIs for appointment, tracking, and service scheduling
+- **Dinamo Egypt (Current)**: Laravel Backend Developer. Working on **Taxi Arab**, a real-time ride-hailing app (10k+ users). Implemented scalable dispatch system & chat logic.
+- **DropIdea (UAE)**: Laravel Developer. Built core features for **Dr.Car** service booking app (APIs, tracking, scheduling).
 
 ---
 
@@ -72,7 +56,7 @@
 - 🛒 [Le-Souk E-commerce Platform](https://github.com/ZiadGamalDev/le-souk)  
   Premium handcrafted products marketplace for Kuwait. Full-stack e-commerce platform with Laravel 11 backend, React frontend, MyFatoorah payment integration, and complete Arabic/English localization.
 
-- 🏥 [Hospital Management System](https://github.com/ZiadGamalDev/hospital-management-system-laravel)  
+- 🏥 [Hospital Management System](https://github.com/ZiadGamalDev/hms-showcase)  
   Multilingual hospital backend built with Laravel & Livewire. Manages patients, doctors, billing, appointments, labs, roles, and more. Features comprehensive role-based access control and complete Arabic/English localization.
 
 - 🩺 [Shakhsni API](https://github.com/ZiadGamalDev/shakhsni-api)  
@@ -94,10 +78,10 @@
 
 ## 📄 Resume & Contact
 
-🌐 Portfolio: [ziadgamaldev.vercel.app](https://ziadgamaldev.vercel.app/)  
-📩 Email: [ziad.gmal.dev@gmail.com](mailto:ziad.gmal.dev@gmail.com)  
+🌐 Portfolio: [ziadgamal.com](https://ziadgamal.com)  
+📩 Email: [ziadgamaldev@gmail.com](mailto:ziadgamaldev@gmail.com)  
 🔗 LinkedIn: [@ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)  
-📂 Resume: [Download Backend Developer CV](./Ziad_Gamal_Backend_CV.pdf)
+📂 Resume: [Download Full-Stack CV](./Ziad-Gamal-Full-Stack-CV.pdf)
 
 ---
 
@@ -115,9 +99,7 @@
 
 ## 📊 Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadGamalDev&layout=compact&theme=radical&hide=html,css&langs_count=8" alt="Top Languages" />
-</p>
+
 
 ---
 
