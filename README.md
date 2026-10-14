@@ -1,106 +1,85 @@
 <h1 align="center">Hi, I'm Ziad Gamal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer (Laravel & MERN)</b>  
+  <b>Full-Stack Developer (Laravel & MERN)</b>
   <br>
-  <i>A tech enthusiast who builds real-world apps and loves clean code.</i>
+  <i>Backend developer building production APIs and real-time systems for ride-hailing, e-commerce, EdTech and healthcare.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💼 +2 years of experience in Full-Stack development (Laravel & MERN)
-- 🚀 Built and deployed 25+ projects — real-time apps, e-commerce, dashboards
-- 🎯 Goal: Join a global product-based company and grow as a senior engineer
-- 🌍 Based in Cairo, Egypt — open to remote opportunities worldwide  
-
----
-
-## 🎯 Quick Wins & Impact
-
-- 🚀 **70% performance improvement** in driver assignment system at Dinamo Egypt
-- 📱 **10k+ active users** on production ride-hailing platform (Taxi Arab)
-- ⚡ **7 interconnected applications** in real-time customer support system
-- 🏥 **Complete healthcare management** system with role-based access control
-- 🎓 **A+ grade** on university graduation project (Shakhsni Healthcare Platform)
-- 💳 **Real payment processing** integration for Kuwait e-commerce marketplace
+- 2+ years of production experience: Laravel/PHP, Node.js, MySQL, MongoDB, Redis
+- Live systems for clients in Jordan, Kuwait and Bahrain, plus freelance delivery on Mostaql since Jan 2026
+- Goal: join a product team, or take on remote contracts, where backend ownership matters
+- Based in Cairo, Egypt. Open to remote work worldwide
 
 ---
 
-## 🧠 Tech Stack
+## Selected Work
 
-- **Backend:** Laravel, PHP, Node.js, Express.js
-- **Frontend:** React, Angular, TypeScript, Redux, Vue.js
-- **Database:** MySQL, MongoDB, SQLite, PostgreSQL, Redis
-- **Real-Time:** Socket.IO, Laravel Reverb, Pusher
-- **Tools:** Docker, Git, GitHub Actions, AWS Basics
-
----
-
-## 💼 Work Experience
-
-- **Dinamo Egypt (Current)**: Laravel Backend Developer. Working on **Taxi Arab**, a real-time ride-hailing app (10k+ users). Implemented scalable dispatch system & chat logic.
-- **DropIdea (UAE)**: Laravel Developer. Built core features for **Dr.Car** service booking app (APIs, tracking, scheduling).
+- **Taxi Arab**: live ride-hailing platform in Jordan, 10k+ downloads on Google Play. Batch driver invitations, Redis queues and Horizon, Pusher real-time events, double-entry ledger.
+- **Smart Edu**: exam-content extraction for an EdTech platform in Bahrain. A deterministic PyMuPDF + regex pipeline extracted 2,055 of 2,063 questions (99.61%), with an AI fallback for unparsed items.
+- **Mizan POS**: point-of-sale and inventory platform with atomic stock and sales transactions, role-based access, 21 tables and 35 endpoints.
+- **Le-Souk**: multi-vendor marketplace for Kuwait with MyFatoorah v2 payments and full Arabic/English RTL.
+- **Customer Support System**: ITI graduation project built by a 5-person team, 7 connected apps. I was the primary author of the core Node.js + Socket.IO API.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-- 🚖 [Taxi Arab Showcase](https://github.com/ZiadGamalDev/taxi-arab-showcase)  
-  Live ride-hailing backend app (Uber-style) built in Laravel with Redis queues, real-time Pusher events, and smart driver invitation logic — used by 10k+ real users in Jordan. Achieved 70% performance improvement in driver assignment.
-
-- 🎧 [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system)  
-  A large-scale, real-time customer support solution built with Node.js, React, Angular, and Socket.IO. Manages live chat, ticket routing, and agent availability. ITI Graduation Project 2025 with 7 fully connected applications.
-
-- 🛒 [Le-Souk E-commerce Platform](https://github.com/ZiadGamalDev/le-souk)  
-  Premium handcrafted products marketplace for Kuwait. Full-stack e-commerce platform with Laravel 11 backend, React frontend, MyFatoorah payment integration, and complete Arabic/English localization.
-
-- 🏥 [Hospital Management System](https://github.com/ZiadGamalDev/hms-showcase)  
-  Multilingual hospital backend built with Laravel & Livewire. Manages patients, doctors, billing, appointments, labs, roles, and more. Features comprehensive role-based access control and complete Arabic/English localization.
-
-- 🩺 [Shakhsni API](https://github.com/ZiadGamalDev/shakhsni-api)  
-  Full Laravel backend for a smart healthcare app featuring AI symptom checker, medicine delivery, booking system, and secure JWT authentication. University graduation project with A+ grade.
+- **Backend:** Laravel, PHP, Node.js, Express.js, NestJS
+- **Frontend:** React, Next.js, Inertia.js, Angular, TypeScript, Tailwind CSS
+- **Data:** MySQL, PostgreSQL, MongoDB, Redis (queues, caching, Horizon)
+- **Real-time:** Socket.IO, Laravel Reverb, Pusher, WebSockets
+- **Tools:** Docker, Git, GitHub Actions, Linux, Postman
 
 ---
 
-## 📂 More Projects
+## Experience
 
-| Project | Description |
-|--------|-------------|
-| [OK-PIN Showcase](https://github.com/ZiadGamalDev/ok-pin-showcase) | Marketplace backend for buying vouchers & topups. Features KYC verification, secure wallet, and digital delivery |
-| [ChatGPT Clone](https://github.com/ZiadGamalDev/chatgpt-clone-frontend) | AI Chatbot clone built with Next.js and NestJS, featuring OpenAI API integration and fullstack routing |
-| [Bazario E-commerce](https://github.com/ZiadGamalDev/bazario-ecommerce-frontend) | Eyeglasses e-commerce app built with Laravel backend and vanilla JS frontend |
-
-> 💬 Check out all projects in my [GitHub Repos »](https://github.com/ZiadGamalDev?tab=repositories)
+- **Dinamo (Apr 2024 - Present)**: Backend Developer, part-time. Dispatch logic, real-time features and dashboards for the Taxi Arab ride-hailing platform and e-commerce APIs.
+- **DropIdea, UAE (Nov 2023 - Apr 2024)**: Backend Developer, intern then part-time. Booking APIs, JWT auth and Stripe payments for the Dr. Car app.
+- **Freelance (Jan 2026 - Present)**: backend and full-stack delivery for clients on Mostaql, 4 projects delivered, all rated 5 stars.
+- **ITI, MEARN Track (Nov 2024 - Apr 2025)**: intensive full-stack program, completed.
 
 ---
 
-## 📄 Resume & Contact
+## Showcases
 
-🌐 Portfolio: [ziadgamal.com](https://ziadgamal.com)  
-📩 Email: [ziadgamaldev@gmail.com](mailto:ziadgamaldev@gmail.com)  
-🔗 LinkedIn: [@ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)  
-📂 Resume: [Download Full-Stack CV](./Ziad-Gamal-Full-Stack-CV.pdf)
+| Project | What it is |
+|---|---|
+| [Taxi Arab](https://github.com/ZiadGamalDev/taxi-arab-showcase) | Live ride-hailing backend in Laravel with Redis queues and real-time dispatch ([Google Play](https://play.google.com/store/apps/details?id=net.taxiarab.user)) |
+| [Smart Edu](https://github.com/ZiadGamalDev/smart-edu-showcase) | Practice-exam platform with PDF question import, Laravel 12, React 19, Python ([demo](https://smart-edu.ziadgamal.com)) |
+| [Mizan POS](https://github.com/ZiadGamalDev/mizan-pos-showcase) | Bilingual point-of-sale with atomic checkout, Laravel 12 + Inertia + React ([demo](https://pos.ziadgamal.com)) |
+| [Le-Souk](https://github.com/ZiadGamalDev/le-souk-showcase) | Kuwait marketplace backend, Laravel 11 + React ([demo](https://le-souk.ziadgamal.com)) |
+| [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system) | Real-time support platform, Node.js, Socket.IO, React, Angular (team project) |
+| [Hospital Management System](https://github.com/ZiadGamalDev/hms-showcase) | Multilingual hospital backend with 5 auth guards, Laravel + Livewire |
+| [Shakhsni API](https://github.com/ZiadGamalDev/shakhsni-api) | Healthcare app backend with an ML symptom checker, graduation project (A+) |
+| [OK-PIN](https://github.com/ZiadGamalDev/ok-pin-showcase) | Voucher and top-up marketplace with KYC wallet and row-locked code delivery |
+| [Zai](https://github.com/ZiadGamalDev/zai-showcase) | AI chat app with streaming OpenAI responses, NestJS + Next.js |
+| [Witness](https://github.com/ZiadGamalDev/witness-showcase) | Practice project: browser-side AES-256-GCM encrypted evidence uploads, Node.js + Next.js ([demo](https://witness.ziadgamal.com), please do not upload real evidence) |
 
----
-
-## 🧩 Certifications
-
-- **Full Stack Web Development using MEARN Track** — Information Technology Institute (ITI) *(In Progress, Nov 2024 - Apr 2025)*
-- **Bachelor's in Computer Science** — Fayoum University *(2024, GPA: 3.3/4.0 Very Good)*  
-  *🏆 Graduation Project: Shakhsni Healthcare Platform (A+ grade)*
-- **Supervised Machine Learning: Regression and Classification** — Stanford University *(Coursera)* [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/ZHJZ3SM6SX2F)
-- **CS50x Introduction to Computer Science** — Harvard University  
-- **NSE 1 Network Security Associate** — Fortinet [🔗 Verify](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=gXqQg6oNYB&qrcode=1)
-- **Google IT Support Professional** — Google *(Coursera)*  
+> All repositories: [github.com/ZiadGamalDev](https://github.com/ZiadGamalDev?tab=repositories)
 
 ---
 
-## 🏁 Mission
+## Resume & Contact
 
-Architect and build scalable full-stack applications that power real-world applications and serve thousands of users. From ride-hailing platforms to healthcare systems, I focus on creating robust, performant solutions that businesses can rely on.
+- Portfolio: [ziadgamal.com](https://ziadgamal.com)
+- Email: [ziadgamaldev@gmail.com](mailto:ziadgamaldev@gmail.com)
+- LinkedIn: [ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)
+- Resume: [Download CV](./Ziad-Gamal-Full-Stack-CV.pdf)
 
-**My commitment:** Clean code, optimal performance, and solutions that scale from MVP to enterprise.
+---
 
-Ready to contribute to your next big project? Let's build something exceptional together �
+## Education & Certifications
+
+- **BSc Computer Science**, Fayoum University (2020 - 2024), GPA 3.3/4.0. Graduation project: Shakhsni healthcare platform (A+)
+- **Full Stack Web Development, MEARN Track**, Information Technology Institute (ITI), 2024 - 2025
+- **Deep Web Development (MEARN Fullstack)**, MongoDB University
+- **Supervised Machine Learning: Regression and Classification**, Stanford / Coursera [Verify](https://www.coursera.org/account/accomplishments/verify/ZHJZ3SM6SX2F)
+- **NSE 1 Network Security Associate**, Fortinet [Verify](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=gXqQg6oNYB&qrcode=1)
+- **Google IT Support Professional**, Google / Coursera
+- **CS50x Introduction to Computer Science**, Harvard
