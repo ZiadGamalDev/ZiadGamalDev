@@ -80,6 +80,6 @@
 - **Full Stack Web Development, MEARN Track**, Information Technology Institute (ITI), 2024 - 2025
 - **Deep Web Development (MEARN Fullstack)**, MongoDB University
 - **Supervised Machine Learning: Regression and Classification**, Stanford / Coursera [Verify](https://www.coursera.org/account/accomplishments/verify/ZHJZ3SM6SX2F)
-- **NSE 1 Network Security Associate**, Fortinet [Verify](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=gXqQg6oNYB&qrcode=1)
-- **Google IT Support Professional**, Google / Coursera
+- **NSE 1 Network Security Associate**, Fortinet (issued 2022, expired Sep 2024) [Verify](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=gXqQg6oNYB&qrcode=1)
+- **Google IT Support Professional Certificate (3 courses: Technical Support Fundamentals, Computer Networking, Operating Systems)**, Google / Coursera
 - **CS50x Introduction to Computer Science**, Harvard
