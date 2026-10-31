@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 2+ years of production experience: Laravel/PHP, Node.js, MySQL, MongoDB, Redis
+- 3 years of production experience: Laravel/PHP, Node.js, MySQL, MongoDB, Redis
 - Live systems for clients in Jordan, Kuwait and Bahrain, plus freelance delivery on Mostaql since Jan 2026
 - Goal: join a product team, or take on remote contracts, where backend ownership matters
 - Based in Cairo, Egypt. Open to remote work worldwide
