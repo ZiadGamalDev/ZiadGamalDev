@@ -69,6 +69,7 @@
 
 - Portfolio: [ziadgamal.com](https://ziadgamal.com)
 - Email: [ziadgamaldev@gmail.com](mailto:ziadgamaldev@gmail.com)
+- WhatsApp: [message me on WhatsApp Business](https://wa.me/ZiadGamalDev?text=Hi%20Ziad%2C%20I%20found%20you%20on%20GitHub%20and%20I%27d%20like%20to%20ask%20about%3A%20)
 - LinkedIn: [ziad-gamal](https://www.linkedin.com/in/ziad-gamal/)
 - Resume: [Download CV](./Ziad-Gamal-Full-Stack-CV.pdf)
 
