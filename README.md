@@ -21,7 +21,7 @@
 
 - **Taxi Arab**: live ride-hailing platform in Jordan, 10k+ downloads on Google Play. Batch driver invitations, Redis queues and Horizon, Pusher real-time events, double-entry ledger.
 - **Smart Edu**: exam-content extraction for an EdTech platform in Bahrain. A deterministic PyMuPDF + regex pipeline extracted 2,055 of 2,063 questions (99.61%), with an AI fallback for unparsed items.
-- **Mizan POS**: point-of-sale and inventory platform with atomic stock and sales transactions, role-based access, 21 tables and 35 endpoints.
+- **Mizan POS**: point-of-sale and inventory platform with transactional checkout, void and return, Admin/Manager/Cashier roles, 23 tables and 14 test files.
 - **Le-Souk**: multi-vendor marketplace for Kuwait with MyFatoorah v2 payments and full Arabic/English RTL.
 - **Customer Support System**: ITI graduation project built by a 5-person team, 7 connected apps. I was the primary author of the core Node.js + Socket.IO API.
 
@@ -52,7 +52,7 @@
 |---|---|
 | [Taxi Arab](https://github.com/ZiadGamalDev/taxi-arab-showcase) | Live ride-hailing backend in Laravel with Redis queues and real-time dispatch ([Google Play](https://play.google.com/store/apps/details?id=net.taxiarab.user)) |
 | [Smart Edu](https://github.com/ZiadGamalDev/smart-edu-showcase) | Practice-exam platform with PDF question import, Laravel 12, React 19, Python ([demo](https://smart-edu.ziadgamal.com)) |
-| [Mizan POS](https://github.com/ZiadGamalDev/mizan-pos-showcase) | Bilingual point-of-sale with atomic checkout, Laravel 12 + Inertia + React ([demo](https://pos.ziadgamal.com)) |
+| [Mizan POS](https://github.com/ZiadGamalDev/mizan-pos-showcase) | Bilingual point-of-sale with transactional checkout, Laravel 12 + Inertia + React ([demo](https://pos.ziadgamal.com)) |
 | [Le-Souk](https://github.com/ZiadGamalDev/le-souk-showcase) | Kuwait marketplace backend, Laravel 11 + React ([demo](https://le-souk.ziadgamal.com)) |
 | [Customer Support System](https://github.com/ZiadGamalDev/customer-support-system) | Real-time support platform, Node.js, Socket.IO, React, Angular (team project) |
 | [Hospital Management System](https://github.com/ZiadGamalDev/hms-showcase) | Multilingual hospital backend with 5 auth guards, Laravel + Livewire |
